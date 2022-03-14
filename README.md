@@ -11,3 +11,5 @@ This is just a simple template for the GAV project.
   - Clone the project OR download the code as a .rar archive and unzip it
   - Double click on the .sln file (Project_GAV.sln)
   - Run the code (by pressing on the Local Windows Debugger in the upper side of the screen (the green right-pointing arrow))
+
+If the main file doesn't automatically pop up, you can find it in the right side of the screen, in the "Source files" folder
