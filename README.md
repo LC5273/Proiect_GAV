@@ -2,7 +2,7 @@
 
 This is just a simple template for the GAV project.
 
-## Prerequirements
+## Requirements
 
   - [Visual Studio IDE](https://visualstudio.microsoft.com/)
 
